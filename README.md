@@ -18,7 +18,7 @@ Seus usuários devem ser capazes de:
 
 Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
 
-## RECURSO UTILIZADOS
+## RECURSOS UTILIZADOS
 
 - HTML, CSS
 - PNG, SVG, JPG IMAGES.
